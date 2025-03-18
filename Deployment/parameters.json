@@ -120,7 +120,7 @@
     "Description": "The branch of the GitHub repository to deploy."
   },
   "appDisplayName": {
-    "Value": "Company Communicator",
+    "Value": "ITS Alert",
     "Description": "The app (and bot) display name."
   },
   "appDescription": {
@@ -132,7 +132,7 @@
     "Description": "The link to the icon for the app. It must resolve to a PNG file."
   },
   "headerText": {
-    "Value": "Company Communicator",
+    "Value": "ITS Alert",
     "Description": "The header banner text."
   },
   "headerLogoUrl": {
