@@ -132,7 +132,7 @@
     },
     "appDisplayName": {
       "type": "string",
-      "defaultValue": "ITS Alert",
+      "defaultValue": "Company Communicator",
       "minLength": 1,
       "metadata": {
         "description": "The app (and bot) display name."
@@ -156,7 +156,7 @@
     },
     "headerText": {
       "type": "string",
-      "defaultValue": "ITS Alert",
+      "defaultValue": "Company Communicator",
       "minLength": 1,
       "metadata": {
         "description": "The header banner text."
