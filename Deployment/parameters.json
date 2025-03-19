@@ -128,7 +128,7 @@
     "Description": "The app (and bot) description."
   },
   "appIconUrl": {
-    "Value": "https://raw.githubusercontent.com/OfficeDev/microsoft-teams-company-communicator-app/main/Manifest/color.png",
+    "Value": "https://i0.wp.com/developer.metro.net/wp-content/uploads/2019/09/cropped-logo_metro_512x512.png",
     "Description": "The link to the icon for the app. It must resolve to a PNG file."
   },
   "headerText": {
